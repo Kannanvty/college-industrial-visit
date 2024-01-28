@@ -1052,7 +1052,7 @@ strong {
 }
 
 /* ----responisve test------ */
-/* @media screen and (max-width: 600px) {
+ @media screen and (max-width: 600px) {
 .col-lg-8, .col-12{
   width: 10px!important;
 }
@@ -1064,4 +1064,3 @@ strong {
   height: 10px!important;
 }
 } 
-*/
